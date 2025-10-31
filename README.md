@@ -24,4 +24,3 @@ The app allows users to add, edit, complete, and delete tasks, providing a simpl
 ## Screenshots
 ![Example Screenshot](images/screenshot.png)
 
----
